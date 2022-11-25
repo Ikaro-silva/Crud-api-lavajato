@@ -64,6 +64,25 @@ Aqui esta as tecnologias usadas neste projeto.
       - Ainda vai ser adicionado caixa de pesquisa para cada cliente pelo nome ou carro.
       
    ## Telas
+   
+   ### Home do projeto- Onde é criado o cliente
+   
+   ![Home page](https://github.com/Ikaro-silva/Crud-api-lavajato/blob/main/img/Home.jpg)
+   
+   ### lista de clientes - Onde esta listado todos os clientes cadastrados 
+   
+   ![List page](https://github.com/Ikaro-silva/Crud-api-lavajato/blob/main/img/list.jpg)
+   
+   ### Deletar - Função de deletar
+   
+   ![Deletar](https://github.com/Ikaro-silva/Crud-api-lavajato/blob/main/img/delete.jpg)
+   
+   ### Editar - função de editar informações dos clientes
+   
+   ![Editar](https://github.com/Ikaro-silva/Crud-api-lavajato/blob/main/img/edit.jpg)
+   ![Editar](https://github.com/Ikaro-silva/Crud-api-lavajato/blob/main/img/edit2.jpg)
+   
+   
       
   
       
