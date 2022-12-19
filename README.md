@@ -1,7 +1,7 @@
 
 
 
-## APLICAÇÂO CRUD
+## APLICAÇÃO CRUD
 Esta é uma aplicação crud desenvolvida para lava jatos  
 Com foco entrada e saida de carros 
 
