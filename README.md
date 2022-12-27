@@ -33,7 +33,7 @@ Aqui esta as tecnologias usadas neste projeto.
   O servidor back-end usa Node.js + Express para APIs REST, o front-end é um cliente Vue com Vue Router e axios.
   
 ## Padrão de arquitetura de software
-  Modek View Controller (MVC)
+  Model View Controller (MVC)
   
   ### Porque usar a arquitetura MVC?
     O MVC é o padrão de aquitetura mais usado e é responsavel pela otimização da velocidade entre as requisições
